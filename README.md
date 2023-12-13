@@ -10,3 +10,7 @@ The primary goal of this project is to predict whether a given chemical compound
 
 ## Workflow
 ![Tribal_project_ML_work_flow](https://github.com/Sanjai-S-1/QSAR-Modelling/assets/105348464/21cd22d8-f2d3-417f-bb1a-1228e23f72f8)
+
+## Reference
+
+- In silico Prediction of Chemical Ames Mutagenicity. ([DOI: 10.1021/ci300400a](https://doi.org/10.1021/ci300400a))
